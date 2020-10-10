@@ -1,0 +1,22 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "description": "A simple login api",
+  "main": "index.js",
+  "author": {
+    "name": "Dony Cisneros",
+    "email": "dony.cisne@gmail.com",
+    "url": "https://www.donycisneros.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
